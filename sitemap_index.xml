@@ -2,15 +2,15 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://clothbin.vicharas.net/post-sitemap.xml</loc>
-		<lastmod>2025-01-05T06:27:03+00:00</lastmod>
+		<lastmod>2025-01-06T04:58:20+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://clothbin.vicharas.net/post-sitemap2.xml</loc>
-		<lastmod>2025-01-05T06:25:22+00:00</lastmod>
+		<lastmod>2025-01-06T04:58:03+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://clothbin.vicharas.net/post-sitemap3.xml</loc>
-		<lastmod>2025-01-05T06:27:03+00:00</lastmod>
+		<lastmod>2025-01-06T04:58:20+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://clothbin.vicharas.net/page-sitemap.xml</loc>
@@ -18,7 +18,11 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://clothbin.vicharas.net/category-sitemap.xml</loc>
-		<lastmod>2025-01-05T06:27:03+00:00</lastmod>
+		<lastmod>2025-01-06T04:58:20+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://clothbin.vicharas.net/post_tag-sitemap.xml</loc>
+		<lastmod>2025-01-06T04:58:20+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://clothbin.vicharas.net/author-sitemap.xml</loc>
